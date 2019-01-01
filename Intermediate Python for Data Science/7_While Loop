@@ -66,7 +66,6 @@ while offset != 0 :
         offset = offset + 1
     print(offset)
 
-
     Inside the while loop, replace offset = offset - 1 by an if-else statement:
         If offset is greater than zero, you should decrease offset by 1.
         Else, you should increase offset by 1.
